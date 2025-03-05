@@ -26,7 +26,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between">
           <a href="/" className="text-2xl font-semibold tracking-tight">
-            <span className="text-nail-700">Nail</span>
+            <span className="text-nail-700">Lydie</span>
             <span className="text-nail-500">Gallery</span>
           </a>
           
