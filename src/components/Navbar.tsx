@@ -32,7 +32,7 @@ const Navbar = () => {
           
           {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-8">
-            {['Home', 'Gallery', 'Categories', 'About'].map((item) => (
+            {['Home', 'Gallery', 'Categories', 'About', 'Contact'].map((item) => (
               <a 
                 key={item} 
                 href={`#${item.toLowerCase()}`}
@@ -62,7 +62,7 @@ const Navbar = () => {
         <div className="absolute top-full left-0 right-0 bg-white/95 backdrop-blur-md shadow-md md:hidden">
           <div className="container mx-auto px-4 py-4">
             <nav className="flex flex-col space-y-4">
-              {['Home', 'Gallery', 'Categories', 'About'].map((item) => (
+              {['Home', 'Gallery', 'Categories', 'About', 'Contact'].map((item) => (
                 <a 
                   key={item} 
                   href={`#${item.toLowerCase()}`}
