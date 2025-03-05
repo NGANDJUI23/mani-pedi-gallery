@@ -80,6 +80,7 @@ const Gallery = () => {
           </h2>
           <p className="mt-4 text-muted-foreground">
             Browse through our curated collection of stunning nail designs from top artists around the world.
+            Click on any image to see more details.
           </p>
         </div>
         
