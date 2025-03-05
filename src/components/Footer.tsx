@@ -8,11 +8,11 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-1">
             <a href="/" className="block text-2xl font-semibold mb-4">
-              <span className="text-nail-700">Nail</span>
+              <span className="text-nail-700">Lydie</span>
               <span className="text-nail-500">Gallery</span>
             </a>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              A curated collection of the finest nail art and designs for your inspiration.
+              A curated collection of the finest Lydie art and designs for your inspiration.
             </p>
           </div>
           
