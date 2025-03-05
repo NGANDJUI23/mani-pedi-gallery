@@ -60,7 +60,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="font-medium mb-1">Phone</h3>
-                <p className="text-muted-foreground">(123) 456-7890</p>
+                <p className="text-muted-foreground">+237 6 20 92 84 46</p>
                 <p className="text-muted-foreground">Mon-Fri: 9am - 7pm</p>
               </div>
             </div>
@@ -71,8 +71,8 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="font-medium mb-1">Email</h3>
-                <p className="text-muted-foreground">info@nailgallery.com</p>
-                <p className="text-muted-foreground">support@nailgallery.com</p>
+                <p className="text-muted-foreground">lydie@gmail.com</p>
+                <p className="text-muted-foreground">evodie@facebook.com</p>
               </div>
             </div>
             
@@ -82,8 +82,8 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="font-medium mb-1">Location</h3>
-                <p className="text-muted-foreground">123 Beauty Street</p>
-                <p className="text-muted-foreground">Los Angeles, CA 90001</p>
+                <p className="text-muted-foreground">Nyalla kambo, Douala, Cameroun</p>
+                <p className="text-muted-foreground">Japoma, Douala, Cameroun</p>
               </div>
             </div>
           </div>
