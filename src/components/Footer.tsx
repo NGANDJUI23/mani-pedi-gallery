@@ -60,7 +60,7 @@ const Footer = () => {
         
         <div className="mt-12 pt-8 border-t border-nail-100 flex flex-col md:flex-row justify-between items-center">
           <p className="text-muted-foreground text-sm">
-            © {new Date().getFullYear()} Nail Gallery. All rights reserved.
+            © {new Date().getFullYear()} Lydie Gallery. All rights reserved.
           </p>
           
           <div className="mt-4 md:mt-0 flex space-x-6">
